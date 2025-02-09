@@ -91,7 +91,7 @@ space_mission_crew = Crew(
 )
 
 # Streamlit app
-st.title("AIstronauts: Space Agents on a Mission")
+st.title("Space Agents")
 st.write("Space missions require managing complex operations, often relying on repetitive and time-intensive tasks.")
 
 user_query = st.text_input("Enter your query related to space missions:")
