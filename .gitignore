@@ -1,0 +1,9 @@
+# Ignore .streamlit folder
+.streamlit/
+
+# Ignore other common files and directories
+__pycache__/
+*.pyc
+*.pyo
+.env
+.vscode/
